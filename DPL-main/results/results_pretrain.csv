@@ -1,0 +1,2 @@
+pretrain_acc,dataset,num_labeled_classes,num_unlabeled_classes,batch_size,max_epochs
+0.948913,GID-SD,46,31,512,100
